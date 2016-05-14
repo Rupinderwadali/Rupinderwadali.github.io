@@ -161,52 +161,52 @@ When a user or admin edits his/her profile, there should render a OSM map that a
 Usage of Offline web pages					|Milestone-1		|23-29 May
 * Study various methods						 |Study existing methods |
 * Discuss all the alternatives with mentor and choose one|				
----------------------------|---------------------------------------|-------------------------------------
+
 Implementing the offline usage of the application		|Milestone-2		|30 May-5 June
 * Implementing the selected alternative				|Implementing selected alternative|
 * Testing and finding bugs, if any|
-------------------------------------------------|--------------------------------|------------------------
+
 Categorization of articles|Milestone-3|6-12 June
 * Filter the data according to the category and language|Show article category-wise|
 * Add dependent drop-downs| 
--------------------------------------|---------------------------------|------------------------------------
+
 Organisation’s Profile
 * Create interactive form|Milestone-4| 13-20 June
 * Fetch the fields of countries and its dependent sites|Organisation’s profile|
 * When select the site it shows the list of volunteer| 
------------------------------------------|-------------------------------------|-------------------------------
+
 Individual User|Milestone-5| 21-26 June
 * Make the existing buttons works|Make the existing button work|
-----------------------------------------|-------------------------------------|--------------------------------
+
 Mid-Term Evaluation| |27 June
-----------------------------------------|---------------------------------------|------------------------------
+
 Managing access of Admin, volunteer and contributor|Milestone-5|28 June-5 July
 * Adding interface to access management|Access Management|
 * Authentication based access to the interface|
-----------------------------------------|---------------------------------------|-------------------------------
+
 Add Log Generation|Milestone-7|6-12 july|
 		  |Log generation|
---------------------------------------|----------------------------------------|--------------------------------
+
 Rendering OpenStreetMap (OSM) and fetch the address field from it| Milestone-8|13-21 july
 								 |OSM Address gathering|
 
----------------------------------------|-----------------------------------------|---------------------------------
+
 Track the current geo-location of the user|Milestone-9|22-31 July
 * Explore the OSM geolocation API|Track geolocation using OSM|
--------------------------------------|---------------------------------------------|--------------------------------
+
 Assigning roles|Milestone-10|1 Aug-8 Aug
 Create a new tab for assign role to users and remove  the functionality from the Sites tab|Assign Role to users|
 Add dependent dropdown |
 Show the contributors and volunteer form to add|
----------------------------------------|--------------------------------------------|--------------------------------
+
 * Continue Testing|Milestone-11|9-16 Aug
 * Check Bugs|Demo|
 * Clean the code|
----------------------------------------|---------------------------------------------|-------------------------------
+
 User and Developer Documentation using recommended tools|Documentation|17-23 Aug
-----------------------------------------|----------------------------------------------|-----------------------------
+
 Final Evaluation|Final Evaluation|24 Aug
-------------------------------------------|---------------------------------------------|-----------------------------
+
 
 ## Peace Corps Web Projects
 
