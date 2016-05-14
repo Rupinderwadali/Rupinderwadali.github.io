@@ -167,9 +167,9 @@ Implementing the offline usage of the application		|Milestone-2		|30 May-5 June
 Categorization of articles|Milestone-3|6-12 June
 * Filter the data according to the category and language|Show article category-wise|
 * Add dependent drop-downs| 
-Organisation’s Profile
-* Create interactive form|Milestone-4| 13-20 June
-* Fetch the fields of countries and its dependent sites|Organisation’s profile|
+Organisation’s Profile|Milestone-4| 13-20 June
+* Create interactive form|Organisation’s profile|
+* Fetch the fields of countries and its dependent sites|
 * When select the site it shows the list of volunteer| 
 Individual User|Milestone-5| 21-26 June
 * Make the existing buttons works|Make the existing button work|
