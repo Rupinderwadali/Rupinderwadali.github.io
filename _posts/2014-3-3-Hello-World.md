@@ -159,8 +159,8 @@ When a user or admin edits his/her profile, there should render a OSM map that a
 **Tasks** | **Milestones** | **Date**
 --------------------------|--------------------------------------|--------------------------------------
 Usage of Offline web pages					|Milestone-1		|23-29 May
-* Study various methods						|Study existing methods |
-* Discuss all the alternatives with mentor and choose one	|			|
+* Study various methods						 Study existing methods 
+* Discuss all the alternatives with mentor and choose one				
 -------------------------------------------------------------------------------------------------------
 Implementing the offline usage of the application		|Milestone-2		|30 May-5 June
 * Implementing the selected alternative				|Implementing selected alternative|
@@ -178,7 +178,7 @@ Organisation’s Profile
 Individual User|Milestone-5| 21-26 June
 * Make the existing buttons works|Make the existing button work|
 -------------------------------------------------------------------------------------------------------------
-**Mid-Term Evaluation**| |27 June
+Mid-Term Evaluation| |27 June
 -------------------------------------------------------------------------------------------------------------
 Managing access of Admin, volunteer and contributor|Milestone-5|28 June-5 July
 * Adding interface to access management|Access Management|
@@ -205,7 +205,7 @@ Show the contributors and volunteer form to add|
 -------------------------------------------------------------------------------------------------------------------
 User and Developer Documentation using recommended tools|Documentation|17-23 Aug
 -------------------------------------------------------------------------------------------------------------------
-**Final Evaluation**|Final Evaluation|24 Aug
+Final Evaluation|Final Evaluation|24 Aug
 --------------------------------------------------------------------------------------------------------------------
 
 ## Peace Corps Web Projects
