@@ -66,7 +66,7 @@ locally and automatically keep local copies up to date.
 
 3. When browser notices manifest attribute in <html> element, it fires a checking event and these events are fired on the window.applicationCache object.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/cache.png)
 
 
 * **jQuery Offline Plugin:**
@@ -75,7 +75,7 @@ The jQuery offline plugin provides an easy mechanism for retrieving data from a 
 
 * **Test:** To test the functionality of browser with localStorage and without localStorage, ruby is needed on the system.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/test.png)
 
 * **SyncIt:**
 
@@ -88,7 +88,7 @@ So have alternatives to choose one, which is best suitable for our application.
 
 Admin can do the task of approving the user request, assigning roles, add new members, articles, languages, country, site, categories and it’s performing all the tasks. Now the question arises what are problems and where we need the improvement? Following are some problems that need improvement and enhancement and the alternatives of the problems.
 
-![_config.yml]({{ site.baseurl }}/images/config.png) 
+![_config.yml]({{ site.baseurl }}/images/admin.png) 
 
 
 * **Categorization of the articles:** 
@@ -104,30 +104,30 @@ We can categorize them by using the drop-down option. In this, first one option 
 We can apply the same logic on the search bar to search the data as described in the first alternative but a search bar is used instead of using the drop-down.
 And after filtering the data we left with the articles that are belongs to that particular category and language. Such as below:
 
-![_config.yml]({{ site.baseurl }}/images/config.png) 
+![_config.yml]({{ site.baseurl }}/images/article.png) 
 
 
 * **Organization Profile:** 
 
 This feature has priority level-3. “My Organization” option contains only the name of the organization and country and sites options contains the information that basically belongs to the organization. Instead of showing the same detail in two different locations, we can use to display it at one place where it is highly preferable. For an instance, we have the information in “countries” option where the organization has the branches and it includes the information like name of the organization, manager and different sites of the countries. In the “sites” option we have the information about the sites that belongs to that particular country and it include information of country and different sites of the country.
 
-![_config.yml]({{ site.baseurl }}/images/config.png) 
+![_config.yml]({{ site.baseurl }}/images/profile.png) 
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png) 
+![_config.yml]({{ site.baseurl }}/images/orgpro.png) 
 
 
 For exploring this working of form have a look:
 
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+![_config.yml]({{ site.baseurl }}/images/listorg.png)
 
 
 Here first we select the organization then it shows the countries that are belongs to the organization. Same wise when we select the country then it shows the sites of the country and when we select the site it shows the list of the volunteer and contributor.
  
 * The role of the user is assigned by the admin. But this option is in the site option of the admin panel. It is not user-friendly. This is the main task of the admin and it resides in another option and one more thing, how would admin know that the user is volunteer or contributor. So, the alternative is that there should be a separate tab for the role of the user in the admin panel or they should assign the role when they are accepted as a member by the admin in “Member option” for simplifying the things. As below diagram shows the working of the Assigning role. When a user select the “Assign Role” tab, it shows two select option where we select the country name and site name. Then it shows the options to add volunteers and contributors and admin assign the role to the user.
 
-![_config.yml]({{ site.baseurl }}/images/profile.png)
+![_config.yml]({{ site.baseurl }}/images/assign.png)
 
 
 **3. Individual Users**
