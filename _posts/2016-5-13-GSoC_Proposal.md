@@ -153,45 +153,73 @@ When a user or admin edits his/her profile, there should render a OSM map that a
 * Interact with community members
 * More exploration of Ruby On Rails
 * Knowing the code
-* Solving issues(#107, #115, #118, #103, #99, #23, #16 or more if have time)
+* Solving issues(#107, #125 or more if have time)
 
+##Detailed Timeline:
 
-**Tasks** | **Milestones** | **Date**
--------------------------------------------|---------------------|--------------------------------------
-Usage of Offline web pages					|Milestone-1		|23-29 May
-* Study various methods						 |Study existing methods |
-* Discuss all the alternatives with mentor and choose one|				
-Implementing the offline usage of the application		|Milestone-2		|30 May-5 June
-* Implementing the selected alternative				|Implementing selected alternative|
-* Testing and finding bugs, if any|
-Categorization of articles|Milestone-3|6-12 June
-* Filter the data according to the category and language|Show article category-wise|
-* Add dependent drop-downs| 
-Organisation’s Profile|Milestone-4| 13-20 June
-* Create interactive form|Organisation’s profile|
-* Fetch the fields of countries and its dependent sites|
-* When select the site it shows the list of volunteer| 
-Individual User|Milestone-5| 21-26 June
-* Make the existing buttons works|Make the existing button work|
-Mid-Term Evaluation| |27 June
-Managing access of Admin, volunteer and contributor|Milestone-5|28 June-5 July
-* Adding interface to access management|Access Management|
-* Authentication based access to the interface|
-Add Log Generation|Milestone-7|6-12 july|
-		  |Log generation|
-Rendering OpenStreetMap (OSM) and fetch the address field from it| Milestone-8|13-21 july
-OSM Address gathering|
-Track the current geo-location of the user|Milestone-9|22-31 July
-* Explore the OSM geolocation API|Track geolocation using OSM|
-Assigning roles|Milestone-10|1 Aug-8 Aug
-Create a new tab for assign role to users and remove  the functionality from the Sites tab|Assign Role to users|
-Add dependent dropdown |
-Show the contributors and volunteer form to add|
-* Continue Testing|Milestone-11|9-16 Aug
-* Check Bugs|Demo|
-* Clean the code|
-User and Developer Documentation using recommended tools|Documentation|17-23 Aug
-Final Evaluation|Final Evaluation|24 Aug
+**Week 1 (23rd May)**
+1. Busy due to exams on 23th may, 26 may, 27 may
+2. Get comfortable with the code 
+
+**Week 2 (30th May)**
+1. Busy due to exams on 30th may and 31 may
+2. Individual User module
+* Making existing buttons work
+
+**Week 3 (6th June)**
+* Organisation’s Profile
+* Fetch the fields of countries and its dependent sites
+* When select the site it shows the list of volunteer
+
+**Week 4, 5 (13th June)**
+1. Usage of Offline web pages
+* Study various methods
+* Discuss all the alternatives with mentor and choose one
+2. Implementing the offline usage of the application
+* Implementing the selected alternative
+* Testing and finding bugs, if any
+
+**Week 6 (27th June)**
+* Code cleanup for mid-term evaluation
+* Documentation
+
+**Mid-Term Evaluation**
+
+**Week 7 (4th July)**
+* Categorization of articles
+* Filter the data according to the category and language
+* Use search box for filtering
+
+**Week 8, 9 (11th July)**
+1. Managing access of Admin, volunteer and contributor
+* Adding interface to access management
+* Authentication based access to the interface
+2. Generate the Log
+
+**Week 10 (25th July)**
+Changing Interface
+1. Assigning roles
+* Create a new tab for assign role to users and remove  the functionality from the Sites tab
+* Add dependent dropdown 
+* Show the contributors and volunteer form to add
+2. Make interactive form
+
+**Week 11 (1st August)**
+* Time to make up for missed milestone(if any).
+* Code cleanup
+
+**Week 12 (8th August)**
+* Testing and remove bugs
+* Final deployment
+
+**Week 13 (15 August)**
+* Getting reviews from mentors and other community members
+* User and Developer Documentation using recommended tools
+
+**Final Evaluation** 
+
+##Availability:
+I will not be available on 23th may, 25th may, 26th may, 27th may, 30th may and 31th may due to exams.
 
 ## Peace Corps Web Projects
 
