@@ -134,17 +134,17 @@ Here first we select the organization then it shows the countries that are belon
 
 Currently, In individual user panel, user either does not have the permission to add new members, category and new sites or it does not work at all. Though the button to add member, category, site are available but clicking them redirects the page to profile page instead of performing the corresponding actions. I can either remove it or add functionality if a user has the permissions to do these activities. And the same categorization of article feature is applied to this part also. This feature has priority level-4.
 
-**4. Adding current geolocation using OSM:**
+**4. Access Management:**
+
+
+ The admin or the higher authority person can access the account of volunteer (or lower authority person). There will be a log file that will have the record of all entries. So that no one misuses their authority.
+
+**5. Adding current geolocation using OSM:**
 
  When user or admin add the images (articles), he will also add the geolocation using OSM. So that we can know the exact location from where the user uploads the articles.
 **Gathering Address:**
 
 When a user or admin edits his/her profile, there should render a OSM map that automatically fills the fields of the location in the form.
-
-**5. Access Management:**
-
-
- The admin or the higher authority person can access the account of volunteer (or lower authority person). There will be a log file that will have the record of all entries. So that no one misuses their authority.
 
 ##MILESTONES:##
 
