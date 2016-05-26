@@ -157,7 +157,7 @@ When a user or admin edits his/her profile, there should render a OSM map that a
 
 
 **Tasks** | **Milestones** | **Date**
---------------------------|--------------------------------------|--------------------------------------
+-------------------------------------------|---------------------|--------------------------------------
 Usage of Offline web pages					|Milestone-1		|23-29 May
 * Study various methods						 |Study existing methods |
 * Discuss all the alternatives with mentor and choose one|				
