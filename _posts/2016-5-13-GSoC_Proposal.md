@@ -206,6 +206,7 @@ When a user or admin edits his/her profile, there should render a OSM map that a
 **Week 10 (25th July)**
 
 Changing Interface
+
 1. Assigning roles
 * Create a new tab for assign role to users and remove  the functionality from the Sites tab
 * Add dependent dropdown 
