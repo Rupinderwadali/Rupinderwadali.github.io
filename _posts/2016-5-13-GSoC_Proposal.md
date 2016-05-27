@@ -146,16 +146,16 @@ Currently, In individual user panel, user either does not have the permission to
 
 When a user or admin edits his/her profile, there should render a OSM map that automatically fills the fields of the location in the form.
 
-##MILESTONES:##
+## MILESTONES:
 
-##Community Bonding Time:##
+## Community Bonding Time:
 
 * Interact with community members
 * More exploration of Ruby On Rails
 * Knowing the code
 * Solving issues(#107, #125 or more if have time)
 
-##Detailed Timeline:
+## Detailed Timeline:
 
 **Week 1 (23rd May)**
 
@@ -229,7 +229,7 @@ Changing Interface
 
 **Final Evaluation** 
 
-##Availability:
+## Availability:
 
 I will not be available on 23th may, 25th may, 26th may, 27th may, 30th may and 31th may due to exams.
 
