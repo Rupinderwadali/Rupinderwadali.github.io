@@ -1,8 +1,8 @@
 ---
 layout: post
-title: timeline
+title: Timeline
 ---
-##Detailed Timeline:
+## Detailed Timeline:
 
 **Week 1 (23rd May)**
 
