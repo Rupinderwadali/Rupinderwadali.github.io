@@ -18,8 +18,6 @@ IRC nickname: roop
 
 Slack channel: rupinderjit
 
-Contact number: +91 9803932467
-
 **3. What is your github username(s)?**
 
 Github username: https://github.com/rupinderwadali(http:github.com)
