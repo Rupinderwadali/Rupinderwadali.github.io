@@ -21,21 +21,24 @@ title: Timeline
 * Fetch the fields of countries and its dependent sites
 * When select the site it shows the list of volunteer
 
-**Week 4, 5 (13th June)**
+**Week 4 (13th June)**
 
 1. Usage of Offline web pages
 * Study various methods
 * Discuss all the alternatives with mentor and choose one
-2. Implementing the offline usage of the application
-* Implementing the selected alternative
-* Testing and finding bugs, if any
 
-**Week 6 (27th June)**
+**Week 5 (20th June)**
 
 * Code cleanup for mid-term evaluation
 * Documentation
 
 **Mid-Term Evaluation**
+
+**Week 6 (27 June)**
+
+1. Implementing the offline usage of the application
+* Implementing the selected alternative
+* Testing and finding bugs, if any
 
 **Week 7 (4th July)**
 
