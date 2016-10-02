@@ -16,9 +16,13 @@ I develop an app in kivy for introducing the kivy as my re-entry task in the Gre
 As I new in Kivy and have no prior knowledge of python. Firstly I install the kivy on my system and run the first "Hello World" program. After that, start learning about the kivy and side by side develop sample apps for every module. Then I start working on the app that basically set the alarm and send the notification of the alarm. Found some difficulties like notification when the app is not working, even when the app is working when the gap between the user inputted time and current time is large it hangs the app.
 Firstly, I tried to show the current time of the system and take the input of the user through tex boxes and compare the user inputted time with the current system time show the notification using notification function code.
 
+![_config.yml]({{ site.baseurl }}/images/alarm.png)
+
 The other module is to keep a record of the missed and delayed dose. I found something on the internet that helps to implement this module. This module is working but the database part is not added yet. And try to implement the notification module first then will merge the code of both the modules and make a single working application.
 
 In the second module, there are three buttons, first button to show the all the medicine, the second button to show the medicines that are not yet taken and the third button to medicine that are taken by the patient.
+
+![_config.yml]({{ site.baseurl }}/images/record.png)
 
 **Enhancement in app**
 
